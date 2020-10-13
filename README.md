@@ -1,5 +1,5 @@
 # HacktoberFestWork
-Program that need to written:
+Programs that need to be written:
 <pre>
 C++ "Hello, World!" Program
 C++ Program to Print Number Entered by User
