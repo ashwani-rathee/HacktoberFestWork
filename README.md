@@ -1,7 +1,7 @@
 # HacktoberFestWork
 Program that need to written:
-<ol>
->C++ "Hello, World!" Program
+<pre>
+C++ "Hello, World!" Program
 C++ Program to Print Number Entered by User
 C++ Program to Add Two Numbers
 C++ Program to Find Quotient and Remainder
@@ -64,3 +64,4 @@ C++ Program to Add Two Distances (in inch-feet) System Using Structures
 C++ Program to Add Complex Numbers by Passing Structure to a Function
 C++ Program to Calculate Difference Between Two Time Period
 C++ Program to Store and Display Information Using Structure
+</pre>
