@@ -2,11 +2,12 @@
 <i> This Repositry is intended for younger kids of age like from 10-15</i>
 ## Contribution
 <ol>
-  <l>Fork this repo</l>
-  <l>Make a folder in your repo-with your name and age as name of folder</l>
-  <l>Make and submit programs in batches of 5 to be accepted as {hacktoberfest accepted}</l>
+  <li>Fork this repo</li>
+  <li>Make a folder in your repo-with your name and age as name of folder</li>
+  <li>Make and submit programs in batches of 5 to be accepted as {hacktoberfest accepted}</li>
  </ol>
-Programs that need to be written:
+ <br>
+## Programs that need to be written:
 <pre>
 C++ "Hello, World!" Program
 C++ Program to Print Number Entered by User
