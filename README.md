@@ -1,4 +1,11 @@
 # HacktoberFestWork
+<i> This Repositry is intended for younger kids of age like from 10-15</i>
+## Contribution
+<ol>
+  <l>Fork this repo</l>
+  <l>Make a folder in your repo-with your name and age as name of folder</l>
+  <l>Make and submit programs in batches of 5 to be accepted as {hacktoberfest accepted}</l>
+ </ol>
 Programs that need to be written:
 <pre>
 C++ "Hello, World!" Program
