@@ -1,7 +1,15 @@
 # HacktoberFestWork
-Program that need to written:
+<i> This Repositry is intended for younger kids of age like from 10-15</i>
+## Contribution
 <ol>
->C++ "Hello, World!" Program
+  <li>Fork this repo</li>
+  <li>Make a folder in your repo-with your name and age as name of folder</li>
+  <li>Make and submit programs in batches of 5 to be accepted as {hacktoberfest accepted}</li>
+ </ol>
+ <br>
+## Programs that need to be written:
+<pre>
+C++ "Hello, World!" Program
 C++ Program to Print Number Entered by User
 C++ Program to Add Two Numbers
 C++ Program to Find Quotient and Remainder
@@ -64,3 +72,4 @@ C++ Program to Add Two Distances (in inch-feet) System Using Structures
 C++ Program to Add Complex Numbers by Passing Structure to a Function
 C++ Program to Calculate Difference Between Two Time Period
 C++ Program to Store and Display Information Using Structure
+</pre>
